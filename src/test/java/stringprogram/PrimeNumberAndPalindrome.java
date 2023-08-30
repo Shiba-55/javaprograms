@@ -6,7 +6,8 @@ public class PrimeNumberAndPalindrome {
 
 	@Test
 	public void primeAndpalindrome() {
-		int num=33;
+		
+		int num=101;
 		int a=num;
 		int rev=0;
 		boolean flag=false;
@@ -32,4 +33,5 @@ public class PrimeNumberAndPalindrome {
 			System.out.println(a+" is not a Prime and Palindrome number");
 		
 	}
+	
 }

@@ -7,7 +7,7 @@ public class Print_Missing_Number {
 	/**
 	 * if arr[] = {1, 2, 5} 
 	 * Print the no. in b/w 1-10 except the no which are present in array
-	 */
+	 **/
 	@Test
 	public void missing() {
 		int arr[] = {1, 2, 5};

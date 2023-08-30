@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="stringprogram.Print_Substringof2_Without_Duplicate">
+      <class name="stringprogram.InputOutput">
         <methods>
-          <include name="substring1"/>
+          <include name="b"/>
         </methods>
-      </class> <!-- stringprogram.Print_Substringof2_Without_Duplicate -->
+      </class> <!-- stringprogram.InputOutput -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

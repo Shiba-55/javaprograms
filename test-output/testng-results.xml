@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-07T23:28:23 IST" name="Default suite" finished-at="2023-08-07T23:28:23 IST" duration-ms="136">
+  <suite started-at="2023-08-30T11:06:54 IST" name="Default suite" finished-at="2023-08-30T11:06:54 IST" duration-ms="127">
     <groups>
     </groups>
-    <test started-at="2023-08-07T23:28:23 IST" name="Default test" finished-at="2023-08-07T23:28:23 IST" duration-ms="136">
-      <class name="stringprogram.Sum_Is_11">
-        <test-method signature="sum()[pri:0, instance:stringprogram.Sum_Is_11@353d0772]" started-at="2023-08-07T23:28:23 IST" name="sum" finished-at="2023-08-07T23:28:23 IST" duration-ms="21" status="PASS">
+    <test started-at="2023-08-30T11:06:54 IST" name="Default test" finished-at="2023-08-30T11:06:54 IST" duration-ms="127">
+      <class name="stringprogram.Print_Missing_Number">
+        <test-method signature="missing()[pri:0, instance:stringprogram.Print_Missing_Number@353d0772]" started-at="2023-08-30T11:06:54 IST" name="missing" finished-at="2023-08-30T11:06:54 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sum -->
-      </class> <!-- stringprogram.Sum_Is_11 -->
+        </test-method> <!-- missing -->
+      </class> <!-- stringprogram.Print_Missing_Number -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
