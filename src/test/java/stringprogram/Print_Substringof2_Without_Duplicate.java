@@ -23,11 +23,11 @@ public class Print_Substringof2_Without_Duplicate {
 		for (Character ch : lhs) {
 			sb=sb+ch;
 		}
-		for (int i = 0; i < sb.length()-1;) {
+		for (int i = 0; i < sb.length()-1;i=i+2) {
 			for (int j = i; j <= i+1; j++) {
 				System.out.print(sb.charAt(j));
 			}
-			i=i+2;
+			
 			System.out.print(" ");
 		}
 	}
